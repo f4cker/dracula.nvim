@@ -31,6 +31,7 @@ local TRANSPARENTS = {
    "NeoTreeNormal",
    "NeoTreeNormalNC",
    "TelescopeNormal",
+   "LspFloatWinNormal",
 }
 
 local function apply_term_colors(colors)
