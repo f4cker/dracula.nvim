@@ -30,6 +30,7 @@ local TRANSPARENTS = {
    "NvimTreeVertSplit",
    "NeoTreeNormal",
    "NeoTreeNormalNC",
+   "TelescopeNormal",
 }
 
 local function apply_term_colors(colors)
