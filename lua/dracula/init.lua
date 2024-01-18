@@ -32,6 +32,7 @@ local TRANSPARENTS = {
    "NeoTreeNormalNC",
    "TelescopeNormal",
    "LspFloatWinNormal",
+   "LspSagaBorderTitle",
 }
 
 local function apply_term_colors(colors)
