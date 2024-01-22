@@ -34,7 +34,7 @@ local TRANSPARENTS = {
    "LspFloatWinNormal",
    "LspSagaBorderTitle",
    "BufferLineFill",
-   "BufferLineSelected",
+   "BufferLineBufferSelected",
 }
 
 local function apply_term_colors(colors)
