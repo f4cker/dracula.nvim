@@ -33,6 +33,8 @@ local TRANSPARENTS = {
    "TelescopeNormal",
    "LspFloatWinNormal",
    "LspSagaBorderTitle",
+   "BufferLineFill",
+   "BufferLineSelected",
 }
 
 local function apply_term_colors(colors)
